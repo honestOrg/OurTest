@@ -3,11 +3,4 @@ iurTest
 wsdsfsd
 jjduejeue
 123456
-mmmmmmmmmm
-nnnnnnnnnnn
-ccccccccc
-XXXXXXXXX
-aaaaaaaaaaaaaaa
-bbbbbbbbbbbbbbb
-ccccccccc
-qqqqqqqqqqqqqqqq
+wqwwwwwqqqqqqqwwwwwwwqqqq
